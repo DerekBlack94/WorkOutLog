@@ -29,8 +29,6 @@ router.post('/create', validateSession, (req, res) => {
      
       })
 
-       
-
    
       //**Get Mine */
 
